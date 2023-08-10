@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="016c3897-b5ae-4581-8096-d612e87bd6b3" name="Changes" comment="Added a package and moved stuffs around, also renamed some files.">
+    <list default="true" id="016c3897-b5ae-4581-8096-d612e87bd6b3" name="Changes" comment="Created the base of the game.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flappyBird/flappybird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flappyBird/Flappybird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flappyBird/Flappybird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flappyBird/Flappybird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flappyBird/Renderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flappyBird/Renderer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +89,23 @@
       <option name="project" value="LOCAL" />
       <updated>1691647621044</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created the base of the game.">
+      <option name="closed" value="true" />
+      <created>1691649869110</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691649869110</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Created the base of the game.">
+      <option name="closed" value="true" />
+      <created>1691649900982</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691649900982</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +134,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="making a flappy bird game" />
     <MESSAGE value="Added a package and moved stuffs around, also renamed some files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a package and moved stuffs around, also renamed some files." />
+    <MESSAGE value="Created the base of the game." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created the base of the game." />
   </component>
 </project>
