@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="016c3897-b5ae-4581-8096-d612e87bd6b3" name="Changes" comment="Created the base of the game.">
+    <list default="true" id="016c3897-b5ae-4581-8096-d612e87bd6b3" name="Changes" comment="Updated.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/flappyBird/Flappybird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flappyBird/Flappybird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flappyBird/Renderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flappyBird/Renderer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -56,7 +58,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "onboarding.tips.debug.path": "F:/04 Archive/Code/Java/Flappy Bird/src/Main.java",
-    "settings.editor.selected.configurable": "inlay.hints"
+    "settings.editor.selected.configurable": "consents"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -105,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691649900982</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated.">
+      <option name="closed" value="true" />
+      <created>1691652805078</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691652805078</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +145,11 @@
     <MESSAGE value="making a flappy bird game" />
     <MESSAGE value="Added a package and moved stuffs around, also renamed some files." />
     <MESSAGE value="Created the base of the game." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created the base of the game." />
+    <MESSAGE value="Updated." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
