@@ -4,25 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="016c3897-b5ae-4581-8096-d612e87bd6b3" name="Changes" comment="making a flappy bird game">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flappyBird/flappybird.java" afterDir="false" />
+    <list default="true" id="016c3897-b5ae-4581-8096-d612e87bd6b3" name="Changes" comment="Added a package and moved stuffs around, also renamed some files.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flappyBird/flappybird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flappyBird/Flappybird.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "WhiteHades"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4c5b5c80-95b4-4caf-adb8-4cacc93e8105" />
+        <option name="url" value="https://github.com/WhiteHades/FlappyBird.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2TmMOCirhsJZUdzILqgdtKK6Ghx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,7 +55,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "onboarding.tips.debug.path": "F:/04 Archive/Code/Java/Flappy Bird/src/Main.java",
-    "settings.editor.selected.configurable": "settings.sync"
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -59,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691643884708</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added a package and moved stuffs around, also renamed some files.">
+      <option name="closed" value="true" />
+      <created>1691647621044</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691647621044</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="making a flappy bird game" />
-    <option name="LAST_COMMIT_MESSAGE" value="making a flappy bird game" />
+    <MESSAGE value="Added a package and moved stuffs around, also renamed some files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a package and moved stuffs around, also renamed some files." />
   </component>
 </project>
